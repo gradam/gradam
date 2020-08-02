@@ -14,9 +14,9 @@ I am passionate about entrepreneurship, startups, new technologies and sharing k
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    <a href="https://twitter.com/Jakub_Semik" alt="Twitter"><img src="https://raw.githubusercontent.com/gradam/gradam/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/jakub-semik-a4981012a/" alt="Linkedin"><img src="https://raw.githubusercontent.com/gradam/gradam/linkedin-box-fill.svg"></a>
-    <a href="mailto:kuba.semik@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/gradam/gradam/mail-line.svg"></a>
-    <a href="https://semik.dev" alt="My site"><img src="https://raw.githubusercontent.com/gradam/gradam/external-link-line.svg"></a>
+    <a href="https://twitter.com/Jakub_Semik" alt="Twitter"><img src="/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/jakub-semik-a4981012a/" alt="Linkedin"><img src="/linkedin-box-fill.svg"></a>
+    <a href="mailto:kuba.semik@gmail.com" alt="Contact me"><img src="/mail-line.svg"></a>
+    <a href="https://semik.dev" alt="My site"><img src="/external-link-line.svg"></a>
   </p>
 </p>
