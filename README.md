@@ -1,8 +1,6 @@
 # Hello, I'm Jakub
 I'm a fullstack web developer
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=gradam&count_private=true&show_icons=true)
-<!--- [![HitCount](http://hits.dwyl.com/gradam/gradam.svg)](http://hits.dwyl.com/gradam/gradam) -->
 
 __*The code is just a tool, but still, you have to know how to use it.*__
 
